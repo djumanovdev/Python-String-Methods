@@ -287,14 +287,3 @@
 | -------------- | ------- |
 | `"report.pdf"` | `True`  |
 | `"photo.jpeg"` | `False` |
-
----
-
-### ✅ Task28 – Comment string tozalash (Blog saytlardagi filter logikasi)
-
-**Izoh matnidan “yomon” so‘zlarni olib tashlang, so‘ngra tekshiring**
-
-| Input                                      | Output |
-| ------------------------------------------ | ------ |
-| `"this is bad"`         | `True` |
-| `"This is BAD"` | `True` |
